@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  border: 2px solid black;
+  height: 100vh;
+  padding: 4rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-left: 8rem;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.main {
+  width: 80%;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Re-score,
+.add-score {
+  width: 400px;
+  padding: 1rem;
+}
+
+.title {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.title2 {
+  margin-left: 4rem;
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+  padding: 0.5rem;
+  border: 2px solid black;
+  margin-top: 1rem;
+}
+
+li {
+  padding: 0.5rem;
+  font-weight: bold;
+}
+
+li:nth-child(even) {
+  background-color: lightgray;
+}
+
+button {
+  padding: 0.4rem 1.3rem;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.form {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input {
+  padding: 0.5rem 1.3rem;
+  width: 80%;
+  margin-bottom: 1rem;
+}
