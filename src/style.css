@@ -82,3 +82,11 @@ input {
   width: 80%;
   margin-bottom: 1rem;
 }
+
+.submitBtn {
+  width: 100px;
+  margin-left: 11.2rem;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+}
