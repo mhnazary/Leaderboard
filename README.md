@@ -45,7 +45,9 @@ Will have future changes in the next days!
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML
+- CSS
 - JS
+-Webpack
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -62,8 +64,10 @@ Will have future changes in the next days!
 ### Key Features <a name="key-features"></a>
 
 1 Add HTML <br>
-3 Add <br> 
+2 Add Webpack <br>
+3 Add CSS<br> 
 4 add linters<br>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
