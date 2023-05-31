@@ -10,7 +10,7 @@ Will have future changes in the next days!
   <h3 id="title"><b>LeaderBoard</b></h3>
 
 </div>
-
+ 
 
 
 # 📗 Table of Contents
