@@ -1,6 +1,5 @@
 # LeaderBoard
 
-Will have future changes in the next days! 
 
 <a name="readme-top"></a>
 
@@ -67,13 +66,15 @@ Will have future changes in the next days!
 2 Add Webpack <br>
 3 Add CSS<br> 
 4 add linters<br>
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+This is the [live demo link](https://mhnazary.github.io/Leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
