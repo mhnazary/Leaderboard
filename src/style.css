@@ -108,6 +108,8 @@ li span {
 .form {
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
+  height: 70%;
 }
 
 input[type="text"] {
