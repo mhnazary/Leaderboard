@@ -1,6 +1,5 @@
 # LeaderBoard
 
-Will have future changes in the next days! 
 
 <a name="readme-top"></a>
 
@@ -73,7 +72,7 @@ Will have future changes in the next days!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-This is the [live demo link]()
+This is the [live demo link](https://mhnazary.github.io/Leaderboard/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
