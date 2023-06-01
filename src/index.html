@@ -4,9 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LeaderBoard</title>
-    <script defer src="runtime.bundle.js"></script>
-    <script defer src="index.bundle.js"></script>
-    <script defer src="runtime.bundle.js"></script>
     <script defer src="index.bundle.js"></script>
   </head>
   <body>
@@ -16,15 +13,9 @@
         <section class="Re-score">
           <div class="title">
             <h2>Recent Scores</h2>
-            <button>Refresh</button>
+            <button id="RefreshBtn">Refresh</button>
           </div>
-          <ul>
-            <li>Asif : 100</li>
-            <li>Anwar : 95</li>
-            <li>Ali : 100</li>
-            <li>Elyas : 89</li>
-            <li>Khan : 85</li>
-            <li>Qasim : 70</li>
+          <ul id="scoreResult">
           </ul>
         </section>
         <section class="add-score">
@@ -32,9 +23,9 @@
             <h2>Add your score</h2>
           </div>
           <form action="" class="form">
-            <input type="text" placeholder="your name" />
-            <input type="text" placeholder="your score" />
-            <input type="submit" value="submit" class="submitBtn">
+            <input type="text" id="nameInput" placeholder="your name" />
+            <input type="text" id="scoreInput" placeholder="your score" />
+            <input type="submit" value="submit" class="submitBtn" id="submitBtn">
           </form>
         </section>
       </div>
