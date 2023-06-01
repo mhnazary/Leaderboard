@@ -75,7 +75,7 @@ Will have future changes in the next days!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-This is the [live demo link](https://mhnazary.github.io/Desktop-_Version_Portfolio/)
+This is the [live demo link](https://mhnazary.github.io/Leaderboard/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
